@@ -1,0 +1,9 @@
+git clone https://github.com/cleanflight/cleanflight.git
+cd cleanflight/
+make arm_sdk_install
+git checkout CLFL_v2.3.2
+git branch
+make clean TARGET=CC3D
+replace with the modified target.h and make file then compile
+make TARGET=CC3D
+then flash the hex or bin with stm32 demonstrater or cube32 programmer 
