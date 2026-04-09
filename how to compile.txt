@@ -7,3 +7,7 @@ make clean TARGET=CC3D
 replace with the modified target.h and make file then compile
 make TARGET=CC3D
 then flash the hex or bin with stm32 demonstrater or cube32 programmer 
+https://github.com/cleanflight/cleanflight-configurator/releases/download/CLFL_v2.2.0/cleanflight-configurator-installer_2.2.0_win32.exe
+https://github.com/cleanflight/cleanflight-configurator/releases/download/CLFL_v2.2.0/cleanflight-configurator_2.2.0-amd64.deb
+https://github.com/cleanflight/cleanflight-configurator/releases/download/CLFL_v2.4.0/cleanflight-configurator-installer_2.4.0_win32.exe
+https://github.com/cleanflight/cleanflight-configurator/releases/download/CLFL_v2.4.0/cleanflight-configurator_2.4.0_amd64.deb
